@@ -17,8 +17,10 @@ h1 {
 
 .segunda {
     background-color: rgb(152, 101, 34);
-    width: 200px;
+    width: 100px;
     height: 50px;
+    margin-left: 100px;
+    position: absolute;
 
 }
 
@@ -26,7 +28,7 @@ h1 {
     background-color: rgb(165, 165, 69);
     width: 100px;
     height: 50px;
-
+    margin-left: 200px;
 
 }
 
@@ -34,24 +36,109 @@ h1 {
 background-color: black;
 width: 100px;
 height: 50px;
-
-
+position: absolute;
 }
 
 .quinta {
 background-color: coral;
 width: 100px;
 height: 50px;
+margin-left: 100px;
+position: absolute;
 }
 
 .sexta {
     background-color: beige;
     width: 100px;
     height: 50px;
+    margin-left: 200px;
 }
 
 .septima {
     background-color: aqua;
     width: 100px;
     height: 50px;
+    position: absolute;
 }
+
+.octava {
+background-color: chartreuse;
+width: 100px;
+height: 50px;
+position: absolute;
+margin-left: 100px;
+}
+
+.novena {
+background-color: darkgreen;
+width: 100px;
+height: 50px;
+margin-left: 200px ;
+}
+
+.decima {
+    background-color: cornflowerblue;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+
+.undecima {
+    background-color: gold;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: 100px;
+}
+
+.duodecimo {
+    background-color: maroon;
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+}
+
+.trigesimo {
+    background-color: rgb(241, 11, 157);
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+
+.decimocuarto {
+    background-color: rgb(39, 105, 99);
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: 100px;
+}
+
+.decimoquinto {
+    background-color: rgb(255, 14, 62);
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+}
+
+.decimosexto {
+    background-color: springgreen;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+
+.decimoseptimo {
+    background-color: rgb(231, 2, 231);
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: 100px;
+}
+
+.decimooctavo {
+    background-color: rgb(125, 189, 29);
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+}
+
